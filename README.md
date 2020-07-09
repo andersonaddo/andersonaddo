@@ -1,5 +1,5 @@
 ### Hi there! 
-<img align="left" src="hello.gif" height="50" />
+<img align="left" src="./hello.gif" height="50" />
 
 Welcome to my little corner of GitHub!
 Over the years I've worked on projects in [Unity](https://unity.com/) (I've made many games on Unity), [native Android](https://developer.android.com/studio), [React Native](https://reactnative.dev/), [JavaFX](https://openjfx.io/) and [PostreSQL](https://www.postgresql.org/) (to name a few).
