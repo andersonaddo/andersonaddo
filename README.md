@@ -7,4 +7,4 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 - 🔭 I’m currently working on a social media app called [Biteup](https://github.com/biteup). I'm also helping maintain [react-native-firebase](https://github.com/invertase/react-native-firebase).
 - 🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written. [Check it out!](https://www.loadingdeveloper.com)
 
-P.S: I also have a few open source things on [Bitbucket](bitbucket.org/andersonaddo), if that's your thing. 😑
+P.S: I also have a few open source things on [Bitbucket](https://bitbucket.org/andersonaddo), if that's your thing. 😑
