@@ -15,4 +15,4 @@ I’m currently working on a social media app (startup?) called [Biteup](https:/
 I used to help maintain [react-native-firebase](https://github.com/invertase/react-native-firebase). I still do, but at a less capacity.
 
 
-<div align="right"><sup><sub>Last updated: 3rd November, 2020</sub></sup></div>
+<sup><sub>Last updated: 3rd November, 2020</sub></sup>
