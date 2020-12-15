@@ -9,10 +9,12 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 ---
 
 #### 🔭 Stuff I'm working on now
-I’m currently working on a social media app (startup?) called [Biteup](https://biteup.app). I'm also a co-PM and a developer for an experimental [Care International](https://github.com/yourchoiceyourfuture) project.
+Nothing! Taking a mental break for a bit.
 
 #### 🕯️ Stuff I worked on in the not-so-distant past
+I recently finished being a co-PM and a developer for an experimental [Care International](https://github.com/yourchoiceyourfuture) project.
+Earlier in the year, I was also working on a social media app (startup?) called [Biteup](https://biteup.app). 
 I used to help maintain [react-native-firebase](https://github.com/invertase/react-native-firebase). I still do, but at a less capacity.
 
 
-<sup><sub>Last updated: 3rd November, 2020</sub></sup>
+<sup><sub>Last updated: 15th December, 2020</sub></sup>
