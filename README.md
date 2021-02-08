@@ -9,7 +9,7 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 ---
 
 #### 🔭 Stuff I'm working on now
-[Biteup](https://biteup.app)
+[Emit](https://biteup.app)
 
 #### 🕯️ Stuff I worked on in the not-so-distant past
 I recently finished being a co-PM and a developer for an experimental [Care International](https://github.com/yourchoiceyourfuture) project.
