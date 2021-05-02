@@ -6,6 +6,8 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 
 🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written. [Check it out!](https://www.loadingdeveloper.com)
 
+🌃 [My Github Skyline](https://skyline.github.com/andersonaddo/)
+
 ---
 
 #### 🔭 Stuff I'm working on now
@@ -19,4 +21,4 @@ In late 2020, finished being a co-PM and a developer for an experimental [Care I
 I also used to help maintain [react-native-firebase](https://github.com/invertase/react-native-firebase). I still do, but at a less capacity.
 
 
-<sup><sub>Last updated: 27th April, 2021</sub></sup>
+<sup><sub>Last updated: 2nd May, 2021</sub></sup>
