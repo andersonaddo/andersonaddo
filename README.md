@@ -11,9 +11,9 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 ---
 
 #### 🔭 Stuff I'm working on now
-[Emit](https://getemit.com) 
+[Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
 
-[![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
+[AWS Timestream](https://aws.amazon.com/timestream/)
 
 
 #### 🕯️ Stuff I worked on in the not-so-distant past
@@ -21,4 +21,4 @@ In late 2020, finished being a co-PM and a developer for an experimental [Care I
 I also used to help maintain [react-native-firebase](https://github.com/invertase/react-native-firebase). I still do, but at a less capacity.
 
 
-<sup><sub>Last updated: 2nd May, 2021</sub></sup>
+<sup><sub>Last updated: 13th May, 2021</sub></sup>
