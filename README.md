@@ -10,13 +10,13 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 
 ---
 
-#### 🔭 Stuff I'm working on now
+#### Stuff I'm working on now
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" height="25" />
 
 [Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
 
 
-#### 🕯️ Stuff I worked on in the not-so-distant past
+#### Stuff I worked on in the not-so-distant past
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/timestream.png" height="25" />
 
 In the summer of 2021, I was an intern in Seattle in the [Amazon Timestream](https://aws.amazon.com/timestream/) Storage & Ingestion team. I built a pretty cool  visualizer to help their developers understand how their massive production-scale tables are partitioned.
