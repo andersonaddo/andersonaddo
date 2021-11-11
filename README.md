@@ -11,18 +11,17 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 ---
 
 #### Stuff I'm working on now
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" height="25" />
 
-[Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
-
+Currently in-between projects :)
 
 #### Stuff I worked on in the not-so-distant past
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/timestream.png" height="25" />
 
 In the summer of 2021, I was an intern in Seattle in the [Amazon Timestream](https://aws.amazon.com/timestream/) Storage & Ingestion team. I built a pretty cool  visualizer to help their developers understand how their massive production-scale tables are partitioned.
 
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/care.jpg" height="25" />
+<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" height="25" />
 
-In late 2020, finished being a co-PM and a developer for an experimental [Care International](https://github.com/yourchoiceyourfuture) project.
+[Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
 
-<sup><sub>Last updated: 13th August, 2021</sub></sup>
+
+<sup><sub>Last updated: 11th November, 2021</sub></sup>
