@@ -4,7 +4,7 @@
 Welcome to my little corner of GitHub!
 Over the years I've worked on projects in [Unity](https://unity.com/) (I've made many games on Unity), [React Native](https://reactnative.dev/), [Firebase](https://firebase.google.com/), [native Android](https://developer.android.com/studio), [JavaFX](https://openjfx.io/), [PostreSQL](https://www.postgresql.org/), [AWS](https://aws.amazon.com/) and [THREE.js](https://threejs.org/) (non-exhaustive).
 
-🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written (though I haven't written in a while). [Check it out!](https://www.loadingdeveloper.com)
+🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written (though I don't write very often). [Check it out!](https://www.loadingdeveloper.com)
 
 🌃 [My Github Skyline](https://skyline.github.com/andersonaddo/)
 
@@ -24,4 +24,4 @@ In the summer of 2021, I was an intern in Seattle in the [Amazon Timestream](htt
 [Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
 
 
-<sup><sub>Last updated: 11th November, 2021</sub></sup>
+<sup><sub>Last updated: 3rd March, 2022</sub></sup>
