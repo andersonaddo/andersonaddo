@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/hello.gif" height="50" />
 
 Welcome to my little corner of GitHub!
-Over the years I've worked on projects in [Unity](https://unity.com/) (I've made many games on Unity), [React Native](https://reactnative.dev/), [Firebase](https://firebase.google.com/), [native Android](https://developer.android.com/studio), [JavaFX](https://openjfx.io/), [PostreSQL](https://www.postgresql.org/), [AWS](https://aws.amazon.com/) and [THREE.js](https://threejs.org/) (non-exhaustive).
+Over the years I've worked on projects in [Unity](https://unity.com/) (I've made many games on Unity), [React Native](https://reactnative.dev/), [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Qt Creator](https://www.qt.io/product/development-tools), [THREE.js](https://threejs.org/), [native Android](https://developer.android.com/studio), [JavaFX](https://openjfx.io/) and [PostreSQL](https://www.postgresql.org/) (non-exhaustive).
 
 🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written (though I don't write very often). [Check it out!](https://www.loadingdeveloper.com)
 
