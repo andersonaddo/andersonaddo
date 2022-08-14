@@ -15,9 +15,9 @@ Over the years I've worked on projects in [Unity](https://unity.com/) (I've made
 Nothing much at the moment, I guess! We'll see.
 
 #### Stuff I worked on in the not-so-distant past
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/timestream.png" height="25" />
+<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/mwii.png" height="25" />
 
-In the summer of 2022, I was an intern in at (High Moon Studios)[https://www.highmoonstudios.com/home]. I worked on gameplay featues for Call of Duty: Modern Warfare II.
+In the summer of 2022, I was an intern in at [High Moon Studios](https://www.highmoonstudios.com/home). I worked on gameplay featues for Call of Duty: Modern Warfare II.
 
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" height="25" />
 
