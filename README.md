@@ -1,27 +1,34 @@
 ### Hi there! 
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/hello.gif" height="50" />
+<img src="https://github.com/andersonaddo/andersonaddo/blob/master/media/hello.gif" height="50"/>
 
 Welcome to my little corner of GitHub!
-Over the years I've worked on projects in [Unity](https://unity.com/) (I've made many games on Unity), [React Native](https://reactnative.dev/), [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Qt Creator](https://www.qt.io/product/development-tools), [THREE.js](https://threejs.org/), [native Android](https://developer.android.com/studio), [JavaFX](https://openjfx.io/) and [PostreSQL](https://www.postgresql.org/) (non-exhaustive).
+Over the years I've worked on projects in [React](https://react.dev/) and [React Native](https://reactnative.dev/), [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Unity](https://unity.com/), [Qt Creator](https://www.qt.io/product/development-tools), [THREE.js](https://threejs.org/), [native Android](https://developer.android.com/studio), [JavaFX](https://openjfx.io/) and [PostreSQL](https://www.postgresql.org/) (non-exhaustive).
 
-🌍 My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written (though I don't write very often). [Check it out!](https://www.loadingdeveloper.com)
-
-🌃 [My Github Skyline](https://skyline.github.com/andersonaddo/)
+My personal website has a lot of info on me, including [from the work I've done](https://www.loadingdeveloper.com/my-work/) and the [blog posts](https://www.loadingdeveloper.com/blog/) I've written (though I don't write very often). [Check it out!](https://www.loadingdeveloper.com)
 
 ---
 
 #### Stuff I'm working on now
 
-Nothing much at the moment, I guess! We'll see.
+<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/uncountable.png" height="30" />
+
+I'm working at Uncountable.
+
+Nothing much at the moment apart from that, I guess! We'll see.
+
+---
 
 #### Stuff I worked on in the not-so-distant past
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/mwii.png" height="25" />
+<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/mwii.png" width="40" />
 
-In the summer of 2022, I was an intern in at [High Moon Studios](https://www.highmoonstudios.com/home). I worked on gameplay featues for Call of Duty: Modern Warfare II.
+[Call of Duty: Modern Warfare II](https://www.callofduty.com/modernwarfare2)
 
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" height="25" />
+<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" width="40" />
 
-[Emit](https://getemit.com) &nbsp; &nbsp; [![StackShare](https://img.shields.io/badge/check%20out-our%20stack-orange?style=flat-square)](https://stackshare.io/emit/emit)
+[Emit](https://getemit.com) ([our stack here](https://stackshare.io/emit/emit))
 
+---
 
-<sup><sub>Last updated: 13th August, 2022</sub></sup>
+Find the rest of the stuff I've built [here](https://www.loadingdeveloper.com/my-work/).
+
+<sup><sub>Last updated: 23rd November, 2023</sub></sup>
