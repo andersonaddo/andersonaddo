@@ -12,7 +12,7 @@ My personal website has a lot of info on me, including [from the work I've done]
 
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/uncountable.png" height="30" />
 
-I'm working at Uncountable.
+I'm working at [Uncountable](https://www.uncountable.com/).
 
 Nothing much at the moment apart from that, I guess! We'll see.
 
