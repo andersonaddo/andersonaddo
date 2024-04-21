@@ -12,7 +12,7 @@ My personal website has a lot of info on me, including [from the work I've done]
 
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/uncountable.png" height="30" />
 
-I'm working at [Uncountable](https://www.uncountable.com/).
+I'm working at [Uncountable](https://www.uncountable.com/) under the Github handle [@digital-cuttlefish](https://github.com/digital-cuttlefish).
 
 Nothing much at the moment apart from that, I guess! We'll see.
 
@@ -25,7 +25,7 @@ Nothing much at the moment apart from that, I guess! We'll see.
 
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" width="40" />
 
-[Emit](https://getemit.com) ([our stack here](https://stackshare.io/emit/emit))
+[Emit](https://getemit.com) ([our stack here](https://stackshare.io/emit/emit); [our Github here](https://github.com/emitapp).)
 
 ---
 
