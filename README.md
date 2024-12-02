@@ -10,25 +10,43 @@ My personal website has a lot of info on me, including [from the work I've done]
 
 #### Stuff I'm working on now
 
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/uncountable.png" height="30" />
-
-I'm working at [Uncountable](https://www.uncountable.com/) under the Github handle [@digital-cuttlefish](https://github.com/digital-cuttlefish).
-
-Nothing much at the moment apart from that, I guess! We'll see.
+Some private stuff in the workds, watch this space!
 
 ---
 
 #### Stuff I worked on in the not-so-distant past
-<img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/mwii.png" width="40" />
 
-[Call of Duty: Modern Warfare II](https://www.callofduty.com/modernwarfare2)
+<div>
+  <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/uncountable.png" width="40" />
+  <p>
+    I worked at <a href="https://www.uncountable.com">Uncountable<a/>
+    <span> under the Github handle </span>
+    <a href="https://github.com/digital-cuttlefish">@digital-cuttlefish</a>
+  </p>
+</div>
 
+<br />
+
+<div>
+  <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/mwii.png" width="40" />
+  <p>
+    I worked at <a href="https://www.callofduty.com/modernwarfare2">Call of Duty: Modern Warfare II</a>
+  </p>
+</div>
+
+<br />
+
+<div>
 <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/emit.png" width="40" />
-
-[Emit](https://getemit.com) ([our stack here](https://stackshare.io/emit/emit); [our Github here](https://github.com/emitapp).)
+  <p>
+    I founded <a href="https://getemit.com">Emit</a> 
+    (<a href="https://stackshare.io/emit/emit">our stack here</a>; 
+    <a href="https://github.com/emitapp">our Github here</a>)
+  </p>
+</div>
 
 ---
 
 Find the rest of the stuff I've built [here](https://www.loadingdeveloper.com/my-work/).
 
-<sup><sub>Last updated: 23rd November, 2023</sub></sup>
+<sup><sub>Last updated: 1st December, 2024</sub></sup>
