@@ -10,7 +10,7 @@ My personal website has a lot of info on me, including [from the work I've done]
 
 #### Stuff I'm working on now
 
-Some private stuff in the workds, watch this space!
+Some private stuff in the works, watch this space!
 
 ---
 
