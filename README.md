@@ -10,7 +10,19 @@ My personal website has a lot of info on me, including [from the work I've done]
 
 #### Stuff I'm working on now
 
-Some private stuff in the works, watch this space!
+
+<div>
+  <img align="left" src="https://github.com/andersonaddo/andersonaddo/blob/master/media/stripe.jpeg" width="40" />
+  <p>
+    Working at <a href="https://stripe">Stripe<a/>
+    <span> - public Github is </span>
+    <a href="https://github.com/anderson-stripe">@anderson-stripe</a>
+  </p>
+</div>
+      
+<br />
+      
+Some personal projects also in the works, watch this space!
 
 ---
 
@@ -51,4 +63,4 @@ Some private stuff in the works, watch this space!
 
 Find the rest of the stuff I've built [here](https://www.loadingdeveloper.com/my-work/).
 
-<sup><sub>Last updated: 1st December, 2024</sub></sup>
+<sup><sub>Last updated: 10th January, 2025</sub></sup>
